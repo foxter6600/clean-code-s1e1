@@ -39,6 +39,13 @@ h3 {
   margin: 0 auto 0;
 }
 
+#topSectionForAddingElementToList{
+  display: block;
+  margin-block-start: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
 .task {
   width: 56%;
   display: inline-block;
@@ -110,7 +117,6 @@ h3 {
   font-size: 15px;
   border-bottom: 2px solid #333;
   padding: 30px 0 10px;
-  margin: 0;
   text-transform: uppercase;
 }
 
